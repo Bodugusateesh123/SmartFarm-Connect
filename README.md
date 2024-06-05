@@ -1,8 +1,8 @@
-# Smart Agro Nexus
+# SmartFarm -Connect
 
 ## Project Description
 
-Smart Agro Nexus is an innovative application designed to provide intelligent agricultural solutions. It leverages machine learning models and blockchain technology to offer features like crop recommendation, fertilizer suggestion, plant disease detection, and farm registration on the blockchain.
+SmartFarm-Connect is an innovative application designed to provide intelligent agricultural solutions. It leverages machine learning models and blockchain technology to offer features like crop recommendation, fertilizer suggestion, plant disease detection, and farm registration on the blockchain.
 
 ## Features
 
