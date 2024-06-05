@@ -24,8 +24,8 @@ SmartFarm-Connect is an innovative application designed to provide intelligent a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/smart-agro-nexus.git
-    cd smart-agro-nexus
+    git clone https://github.com/Bodugusateesh123/SmartFarm-Connect.git
+    cd SmartFarm-Connect
     ```
 
 2. Install Python dependencies:
